@@ -2,7 +2,7 @@
 An AI-powered learning platform that provides personalized learning paths and an intelligent chatbot to guide you as your learning partner.
 ## 🔍 Project Output Screenshots
 ### Login Page
-![Login Page](E:\Hackathon2\output screenshots/s0.png)
+![Login Page](output_screenshots/s0.png)
 ### Home Page
 
 ![Home Page](output_screenshots/s1.png)

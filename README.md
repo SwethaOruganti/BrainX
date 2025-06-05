@@ -10,11 +10,20 @@ An AI-powered learning platform that provides personalized learning paths and an
 ### Home Page
 
 ![Home Page](output_screenshots/s1.png)
+
+
+---------------------------------------
+
 ![Home Page](output_screenshots/s2.png)
 
 
 ### Dashboard
 ![Dashboard](output_screenshots/s3.png)
+
+
+---------------------------------------
+
+
 ![Dashboard](output_screenshots/s4.png)
 
 ### Courses
@@ -24,6 +33,11 @@ An AI-powered learning platform that provides personalized learning paths and an
 
 ### Learning path
 ![Learning path](output_screenshots/s7.png)
+
+
+---------------------------------------
+
+
 ![Learning path](output_screenshots/s8.png)
 
 

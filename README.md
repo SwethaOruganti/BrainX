@@ -17,8 +17,6 @@ An AI-powered learning platform that provides personalized learning paths and an
 ![Dashboard](output_screenshots/s3.png)
 ![Dashboard](output_screenshots/s4.png)
 
-
-
 ### Courses
 ![Courses](output_screenshots/s5.png)
 
